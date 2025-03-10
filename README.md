@@ -1,2 +1,2 @@
 # scripts
-A small repo for all of my public scripts
+A small repo holding public scripts authored by me
